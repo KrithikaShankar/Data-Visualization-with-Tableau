@@ -7,3 +7,7 @@ Please click on the links below to view the dashboard on Tableau Public.
 ### Retail
 - [Big Mart Sales](https://public.tableau.com/profile/krithika.shankar#!/vizhome/BigMartProductSales/BigMartStore)
 
+### Open Data Sets
+- [Parking Ticket Analysis](https://public.tableau.com/profile/krithika.shankar#!/vizhome/ParkingTicketAnalysis_16191399765250/TrendbyProvince)
+
+
